@@ -19,7 +19,7 @@
 
     };
 
-    physical_layout0: physical_layout_0 {
+    physical_layout0: default_layout {
         compatible = "zmk,physical-layout";
         display-name = "Default Layout";
         transform = <&direct_transform>;
@@ -31,7 +31,7 @@
             ;
     };
 
-    direct_transform: keymap_transform_0 {
+    default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
         columns = <2>;
         rows = <1>;

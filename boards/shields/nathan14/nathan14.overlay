@@ -22,7 +22,7 @@
     physical_layout0: default_layout {
         compatible = "zmk,physical-layout";
         display-name = "Default Layout";
-        transform = <&direct_transform>;
+        transform = <&default_transform>;
         kscan = <&kscan0>;
 
         keys

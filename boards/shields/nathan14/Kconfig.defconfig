@@ -1,0 +1,11 @@
+if SHIELD_NATHAN14
+
+config ZMK_KEYBOARD_NAME
+    default "nathan14"
+
+config DISPLAY
+    default y
+
+config ZMK_STUDIO
+    default y
+endif # SHIELD_NATHAN14

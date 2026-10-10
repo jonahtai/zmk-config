@@ -8,4 +8,5 @@ config DISPLAY
 
 config ZMK_STUDIO
     default y
+    
 endif # SHIELD_NATHAN14

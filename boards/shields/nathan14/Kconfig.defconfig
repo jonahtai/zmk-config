@@ -3,7 +3,7 @@ if SHIELD_NATHAN14
 config ZMK_KEYBOARD_NAME
     default "nathan14"
 
-DISPLAY=y
+CONFIG_ZMK_DISPLAY=y
 
 ZMK_STUDIO=y
     

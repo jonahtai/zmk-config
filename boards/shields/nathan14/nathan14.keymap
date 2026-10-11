@@ -14,7 +14,7 @@
 
         default_layer {
             bindings = <
-                &kp A &kp B &kp C &kp D &kp E &kp F &kp G &kp H &kp I &kp J &kp K &kp L &ext_power EP_ON M &studio_unlock
+                &kp A &kp B &kp C &kp D &kp E &kp F &kp G &kp H &kp I &kp J &kp K &kp L &ext_power EP_ON &studio_unlock
              >;
         };
     };
